@@ -1,11 +1,14 @@
-//Student ID#0587591
-//Date:02/24/2020
+//Name: Tristan Lynch
+//Student ID: #0587591
 //Example 01 - Displays hello world to the console
+
+
 #include <iostream>
 #include <string>
 using namespace std;
 
 int main() {
+
     // create a variable to store a message
     string message ="Hello C++ World!";
 
